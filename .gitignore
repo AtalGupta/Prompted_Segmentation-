@@ -10,13 +10,14 @@ wheels/
 .venv
 dataset/ 
 outputs/
-.claude 
 .python-version
 main.py 
 pyproject.toml
 src.zip
 uv.lock 
-notebook/
+notebook/01_clipseg.ipynb
+notebook/02_cliplora.ipynb
+notebook/03_sam2.ipynb
 requirements.txt 
 README.md 
-
+.gitignore 
