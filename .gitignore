@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+dataset/ 
+outputs/
+.claude 
+.python-version
+main.py 
+pyproject.toml
+src.zip
+uv.lock 
+notebook/
+requirements.txt 
+README.md 
+
