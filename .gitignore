@@ -15,6 +15,5 @@ main.py
 pyproject.toml
 src.zip
 uv.lock 
-requirements.txt 
-README.md 
+
 .gitignore 
