@@ -15,7 +15,6 @@ main.py
 pyproject.toml
 src.zip
 uv.lock 
-notebook/03_sam2.ipynb
 requirements.txt 
 README.md 
 .gitignore 
